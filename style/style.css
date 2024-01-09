@@ -107,9 +107,12 @@ font-weight: 700;
 #h2{
    padding-top: 20px;
 }
+
 .m11{
    border: 12px;
    padding: 3px;
    width: 424px;
 height: 450px;
+transition: transform 0.3s ease-in-out;
+
 }
