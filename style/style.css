@@ -113,6 +113,131 @@ font-weight: 700;
    padding: 3px;
    width: 424px;
 height: 450px;
-transition: transform 0.3s ease-in-out;
+}
+
+#h3{
+   margin-top: 100px;
+ background: rgba(255, 0, 0, 0.05);
+ width: 1320px;
+height: 616px;
+}
+.m12{
+   display: flex;
+  padding-top: 70px;
+  margin: auto;
+}
+
+.m13{
+   color: #070211;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+ align-items: center;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900; 
+padding-top: 30px;
+}
+
+.m14{
+   color: rgba(7, 2, 17, 0.60);
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+  align-items: center;
+  text-align: center;
+ font-family: Inter;
+ font-size: 20px;
+ font-weight: 400;
+}
+
+#h4{
+   display: flex;
+   justify-content: center;
+  align-items: center;
+
 
 }
+
+.m15{
+   margin-top: 10px;
+   width: 648px;
+   height: 68px;
+   border: 2px solid black;
+   margin-right: 0%;
+   text-align: center;
+}
+ .m16{
+   margin-top: 10px;
+   width: 210px;
+   height: 72px;
+   border-radius:0px 50px 50px 0px;
+  background: #F00;
+}
+
+#h5{
+   background: black;
+   color:white;
+  width: 1600px;
+height: 609px;
+}
+
+.m17{
+   float:left;
+   padding-top: 120px;
+   padding-left: 160px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+
+.m18{
+   float:right;
+   font-family: Inter;
+   font-size: 24px;
+   font-weight: 500;
+   padding-top: 120px;
+   padding-right: 200px;
+}
+
+hr{
+   height:2px;
+   border: 2px;
+   padding-right: 30px;
+   width:80%;
+   background:#070211;
+}
+
+#h6{
+   display: flex;
+   padding-top:50px;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+}
+
+.m19{
+   padding-right: 15px;
+   padding-left: 15px;
+}
+#h7{
+    padding-top:100px ;
+
+}
+.m20{
+   float: left;
+   padding-left: 160px;
+   color: #FFF;
+   font-size: 24px;
+   font-weight: 500;
+   font-family: Inter; 
+}
+.m21{
+   float:right;
+   padding-right: 200px;
+   color: #FFF;
+   font-family: Inter;
+   font-size: 24px;
+   font-weight: 500;
+}
+
